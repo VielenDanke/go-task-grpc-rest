@@ -3,7 +3,7 @@ package handler
 import (
 	"context"
 
-	"github.com/vielendanke/task/internal/app/task/service"
+	"github.com/vielendanke/task/internal/app/taskservice/service"
 	pb "github.com/vielendanke/task/proto"
 )
 

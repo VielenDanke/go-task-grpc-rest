@@ -11,7 +11,7 @@ import (
 	"syscall"
 
 	"github.com/vielendanke/task/configs"
-	"github.com/vielendanke/task/internal/app/task"
+	task "github.com/vielendanke/task/internal/app/taskservice"
 )
 
 //go:embed configs.json
